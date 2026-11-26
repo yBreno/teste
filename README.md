@@ -1,47 +1,83 @@
-<h3 data-importer="text" align="left">Opa, meu nome é Breno</h3>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=welcome%20to%20my%20little%20universe&descAlignY=55&descSize=16" width="100%"/>
+
+# ୨୧ hi, i'm a developer! 💜
+
+### `tech enthusiast` • `gamer` • `dreamer`
+
+*Turning curiosity into code and ideas into reality.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Welcome+to+my+purple+universe+%E2%9C%A8;Coding+is+my+kind+of+magic+%F0%9F%92%BB;Always+learning%2C+always+creating+%F0%9F%92%9C)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 💜 about me
 
-###
+```js
+const developer = {
+  area: "Information Technology",
+  personality: "creative & curious",
+  hobbies: ["Gaming", "Anime", "Music", "Coding"],
+  favoriteColor: "Purple 💜",
+  currently: "Learning something new every day",
+  motto: "Dream big, code bigger."
+};
+```
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+- 💻 Passionate about technology and development.
+- ✨ Always curious about learning new things.
+- 🎮 Gamer in my free time.
+- 🌙 A little bit of creativity, a lot of imagination.
+- 💜 Purple is not just a color, it's a lifestyle.
+
+## 🎮 my favorite universes
+
+<div align="center">
+
+| Universe | My vibe |
+|:---:|:---|
+| ✨ Genshin Impact | Exploring Teyvat |
+| 🏴‍☠️ One Piece | Searching for the One Piece |
+| 🎯 Valorant | Aim, strategy & chaos |
+| 🎮 Roblox | Creativity without limits |
+| 🎤 KATSEYE | Main character energy |
+
 </div>
 
-###
+## 💻 tech corner
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode&theme=dark" />
+
 </div>
 
-###
+*Always learning and adding new tools to my developer inventory.*
 
-<br clear="both">
+## 📊 github stats
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/yBreno/yBreno/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=0D0715" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=C084FC&text_color=E9D5FF&bg_color=0D0715" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=midnight-purple&hide_border=true&background=0D0715&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" width="65%" />
+
+</div>
+
+## 🌙 a little reminder
+
+<div align="center">
+
+*"In a world full of possibilities, keep creating your own magic."*
+
+💜 ✦ ☾ ✦ 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
+
+</div>
